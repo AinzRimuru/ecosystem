@@ -5,6 +5,7 @@ categories: 其他
 tags:
 toc: true
 excerpt: "为 Kratos : Rebirth 主题添加基于 OpenAI Embedding 的智能推荐阅读功能"
+author: Rimuru
 ---
 
 {% alertbar info "
